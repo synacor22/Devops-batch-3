@@ -1,1 +1,2 @@
 Added Feature 2 in git
+Devloper -2 added some changes 
